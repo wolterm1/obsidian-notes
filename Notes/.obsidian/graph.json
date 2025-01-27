@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Entrepeneuship",
+      "color": {
+        "a": 1,
+        "rgb": 13112340
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 0.480818684895833,
+  "lineSizeMultiplier": 1.86851399739583,
+  "collapse-forces": false,
+  "centerStrength": 0.755696614583333,
+  "repelStrength": 4.88118489583333,
+  "linkStrength": 0.494222005208333,
+  "linkDistance": 314,
+  "scale": 1,
+  "close": true
+}

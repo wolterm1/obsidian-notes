@@ -1,0 +1,15 @@
+### Zusammenfassung
+- ESG-Rating ist Versuch, Nachhaltigkeit messbar zu machen durch Aggregation einer Vielzahl Datenpunkten zu einfacher, vergleichbarer Zahl
+- es existieren verschiedene ESG-Rating Anbieter
+- **Doppelte Materialität**: zwei Perspektiven zur Berichterstattung Nachhaltigkeit: **Inside-Out** und **Outside-In** Perspektiven
+- **Gesetzliche Regulierung** versucht Berichterstattung zu **vereinheitlichen**
+- **EU-Taxonomie Verordnung** ist **Klassifizierungssystem für Wirtschaftsaktivitäten** --> macht Nachhaltigkeitsanstrengungen gegenüber Stakeholdern **Transparenz**, **Verpflichtung für große zu berichten**
+- Taxonomie-konforme Wirtschaftsaktivität fördert Beitrag zu einem der sechs Umweltziele, beeinträchtigt nicht signifikant ein anderes und erfüllt soziale Mindeststandards und technische Bewertungskriterien.
+- **Klassifizierung Treibhausgase** nach **Scope 1-3**. Umrechnung in **CO2- Äquivalente** zur Vereinfachung und Vergleichbarkeit. Freiwillige Berichtsstandards wie **GHG-Protokoll**
+- In vielen Ländern **Bepreisung von Treibhausgasemissionen** um Menge zu steuern --> **CO2-Steuer oder CO2-Zertifikate**
+- Zusammenhang Nachhaltigkeitsparameter und finnanzielle Performance
+	- Kapitalkosten
+	- Investoren stellen nachhaltigkeitsorientierte Finanzprodukte zur Verfügung
+	- Investoren fordern Nachhaltigkeitsanstrengung von Unternehmen
+	- Erklärte und tatsächliche Zahlungsbereitschaft stimmt nicht überein (Bio Produkte)
+- Es existieren **Zielkonflikte** zwischen nachhaltigen und finanziellen Faktoren
