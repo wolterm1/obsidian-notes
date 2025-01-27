@@ -84,4 +84,6 @@
 - **Business Modell Canvas** beleuchtet **Key Partners, Key activities, Key Resources, Value Proposition, Customer Relationships, Channels, Customer, Cost Structure, Revenue Streams**
 - Gängige Geschäftsmodelle: **Longtail- und Free-Geschäftsmodelle** oder **Multisided platforms**
 
+![[Pasted image 20250127155820.png]]
+
 
