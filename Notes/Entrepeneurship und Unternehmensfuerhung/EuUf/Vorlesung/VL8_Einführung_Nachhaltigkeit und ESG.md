@@ -44,6 +44,7 @@ Nachhaltigkeit: Eine Entwicklung, die die Bedürfnisse der heutigen Generation b
 - Vergütung von Führungskäften und Leistung
 - Aktionärsrechte und Engagement
 - Risikomanagement und Transparenz
+![[Pasted image 20250128002045.png]]
 ### Zusammenfassung
 - Nachhaltigkeit erfordert ganzheitliche Ansätze und aktive Lösung von Zielkonflikten -> Vermeidung Greenwashing, Erzielung substantieller Fortschritte
 - **Triple Bottom Line** zeigt Notwendigkeit von ausgewogenem Verhältniss zwischen **ökologische, sozial und ökonomischen Faktoren (ESG)** für nachhaltigen Erfolg

@@ -29,7 +29,7 @@ Produktentwicklung:
 Diversifizierung:
 - Abkehr von derzeitigen Produkten, neue Märkte mit neuen Produkten ansprechen
 
-##### Marktdurchdringung, Wachstum durch bestehende Kunden
+##### Ries Marktdurchdringung, Wachstum durch bestehende Kunden
 1. **Mundpropaganda**, Weiterempfehlung Produkt durch Kunden
 2. **Nebenwirkung der Produktverwendung**, Produktverwendung generiert aufmerksamkeit
 3. **Bezahlte Werbung**, Nachhaltigkeit fordert Finanzierung durch Einnahmen. Grenzertrag(Kunde) - Grenzgewinn(Kunde) = Grenzgewinn -> freies Kapital zum Gewinn neuer Kunden
