@@ -1,6 +1,10 @@
 [[]]
-
-### Technologische Chancen und Risiken durch Veränderungen im Umfeld
+#### Wettbewerb und Ansprüche erhöhen Innovationsdruck
+- politisch-rechtlich
+- technologisch
+- sozio kulturell
+- ökologisch
+- ökonomisch
 ![[Pasted image 20250106234925.png]]
 ### Lebenzzyklus Modell eines Unternehmens: ![[Pasted image 20250106235119.png]]
 
@@ -15,11 +19,31 @@
 ---
 ### Wertschöpfung durch Innovation:
 
-**Prozess Innovationsmanagment:**
+
+**Prozess ==Innovationsmanagment==: 6 Schritte**
 ![[Pasted image 20250107000338.png]]
+##### Es gibt radikale und inkrementelle Innovationen
+- Radikal: Neu auf der Welt, grundlegend anders, risikoreich und unsicher
+- Inkrementell: Sukzessive Änderungen oder Verbesserungen bestehnder, Nutzung vorhandener Fähigkeiten und Kenntnisse
 
 **Verschiedene Innovationsobjekte**:![[Pasted image 20250107000948.png]]
-können auf verschieden Arten generiert werden:![[Pasted image 20250107001032.png]]
+können auf verschieden Arten generiert werden:
+#### Innovationsgeneration: Technology Push vs Market Pull ![[Pasted image 20250107001032.png]]
+
+
+
+#### Ungleichgewichtestheorie des Marktes, schöpferische Zerstörung (Schumpeter)
+- Schaffung eines neuen Gutes (oder neuer Qualität)
+- neue Produktionsmethode
+- Erschließung neuer Absatzmarkt
+- neue Bezugsquelle Rohstoffe
+
+#### Entrepeneruship beschäftigt sich neben Unternehmensgründung mit:
+- Identifizierung von Chancen
+- Finden von Ideen und Umsetzung
+- Führungskraft/qualität
+- Umsetzung von Innovationen
+- Unternehmerisches Denken, Entscheiden und Handeln
 
 ---
 ==**Typen von Entrepeneurship:**== 
@@ -27,20 +51,15 @@ können auf verschieden Arten generiert werden:![[Pasted image 20250107001032.pn
 - Serial Entrepeneurship
 - Corporate Entrepeneurship: innerhalb bestehendem Unternehmen Innovation
 - Social/Sustainable Entrepeneurship - ökologische Herausforderungen bewältigen
-- Family Enterprising
+- Family Enterprising (Unternehmen über mehrer Generationen hinweg)
 
-==**Arten von Entrepeneurship:**== 
-- Charities
-- Gewinn generierende Sozialunternehmen
-- sozial orientiertes, kommerzielles Unternehmen
-- traditionell kommerzielles Unternehmen
 ---
-==**Mermale von Entrepeneuren:**==
-- Gelegenheitserkennung
+==**Merkmale von Entrepeneuren:**==
+- Gelegenheitserkennung und Wahrnehmung
 - Umgang mit Ungewissheit
 - Beruflicher und familiärer Kontext
 - Belohnung und Vergütung
-- Reisikobereitschaft
+- Risikobereitschaft
 - Ressourcenaneignung
 ---
 ==**Gründungs-  Liabilty,  challenge and chance**==
@@ -50,10 +69,10 @@ können auf verschieden Arten generiert werden:![[Pasted image 20250107001032.pn
 - owner centricness
 - innovativeness
 - adolescence
-**Challenge:**
+**Challenge/Herausforderungen:**
 - Kaum Standardprozess, Vertrauen von Markt
 - geringe ressourcen
-- personelle Abhägnigkeit
+- personelle Abhängigkeit
 - Zeitbedarf
 - Progose und Planung
 **Vorteile:**
@@ -65,7 +84,7 @@ können auf verschieden Arten generiert werden:![[Pasted image 20250107001032.pn
 ---
 ==**Innovationsbasierte Ökonomien**==
 
-Necissity-driven Entrepeneur:
+Necessity-driven Entrepeneur:
 - Faktorbasierte und effizienzbasiert Ökonomie mit wenig Vorraussetzungen 
  --> Arbeitslosigkeit entkommen, Familientradition, Erwartungen erfüllen
 
@@ -73,7 +92,7 @@ Opportunity-driven Entrepeneur
 - innovationebasierte Ökonomie mit Vorraussetzungen für unternehmerisches Handeln
  --> Unabhängigkeit, finanzielle Motivation, Neues schaffen
 
-### Wichtigste Erkenntnisse:
+### Zusammenfassung:
 
 - Wachstum leistet volkswirtschaflichen Beitrag
 	- technologischer Wandel

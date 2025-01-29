@@ -20,20 +20,51 @@
 
 ### Ideengenerierung
 ![[Pasted image 20250113125542.png]]
-==**Kreativprozess für Ideengenerierug:**==
--  verschiedene Strategien: 
-- Analytische Problemzerlegung, Vorstellungskraft ...
+==**Strategien für Ideengenerierug:**==
+- Analytische Problemzerlegung (wortgemäß)
+- Vorstellungskraft (unrealistische Zustände betrachten)
+- Durchbrechen von Gewohnheiten (Gewohnheiten lockern, kreative Einsichten)
+- Zusammenhänge entdecken (bewusstes Verbinden von Konzepten und Ideen)
+- Weiterentwicklung (Iteration bestehender Ideen)
+- Schwarmintelligenz
+**==Externe Chancentreiber==**
+- Deregulierung (zB in Medizin, Versicherung)
+- Fragmentierung/Transaktionskosten (Gebrauchtware, Bezahlungssysteme)
+- Trend zur Serviceorientierung (Service rund um Produkte)
+- Technologien (zB computer treiben ganze Industrie weiter)
+- Wertewandel (zB zu Umwelt/Freizeit)
+- Rekonstruktion Wertschöpfungskette (zB Online Banking bei Banken,früher alles offline)
 ==**Kurz-Evaluation:**==
-- **Bedarf**: Gibt es ungelöstes Problem, Frustrationen, ? (Kunden-pain)
-	--> kann erschaffen werden (Kunden-gain)
+- **Bedarf**:  ungelöstes Problem, Frustrationen -> bedienen (Kunden-pain)
+	     latente Bedürfnisse -> erschaffen(Kunden-gain)
 - **Nachfrage:** Gibt es Kunden?
 - **Bepreisung:** Gibt es Zahlungsbereitschaft?
-==**Strukturierte Bewertung:**==
-- Martk/Wettbewerb, Finanzen etc 
-- Internet, Forschung, Unis
-- Business Model Canvas
+#### (kreative) Ideengenerierung und (strukturierte)Opportunity Recognition
+- Ideengenerierung: viele verscheidene Lösungen für Problem generieren
+-> 
+- Opportunity Recognition: Alle Lösungen für Problem prüfen bewerten und bis auf eine, eliminieren -> Lösungsfokussiertes Denken, strukturierte Zusammenfügung
 
-**Kernfragen Geschätsmodell:**
+==**Strukturierte Bewertung:**==
+- Markt/Wettbewerb, Finanzen etc 
+- Internet, Forschung, Unis
+- Business Model Canvas / Business Plan
+Ziel: Gute Idee -> Business Gelegenheit
+
+#### Bewertungsprozess
+- Einflussfaktoren: 
+	- subjektiver Wert (Nutzen, welchen Person mit Gut verbindet) -> Subjektiver Erwartungswert
+	- objektiver Wert (Werte der Eigenschaften des Gutes) ->Marktpreis eines Gutes
+- ==personenbezogene Einflussfaktoren auf Bewertungsprozess==:
+	- Risiko und Risikowahrnehmung 
+	- Emotionen
+	- Informationsstand
+	- Heuristiken -> Entscheidungsfehler
+	- Overconfidence (übermäßiges Selbstvertrauen in Urteilsvermögen)
+	- Kontrollillusion (Überschätzen des Einflusses auf zukünftige Ereignisse)
+	- Gesetz der kleinen Zahl (zu allgemeine Schlüsse aus wenig Informationen)
+	- Opportunitätskosten ()
+
+**Kernfragen Geschäftsmodell:**
 - Nutzenversprechen => bessere/erste Addresierung Kundenbedürfnisse
 - Wertschöpfungsarchitektur => Veränderung der Wertschöpfungskette / Produktions- und Logistikketten
 - Ertragsmodell => Auswahl der Ertragstypen, aus welchen Quellen Ertrag
