@@ -38,7 +38,7 @@ Diversifizierung:
 #### Porter: Drei Strategien für Wettbewerbsvorteil
 1. Kostenführerschaft
 2. Differenzierung (neuartige Produkte oder Grundlage von Kundenbeziehungen)
-3. Fokus
+3. Fokus auf eine Niche ![[Pasted image 20250202115139.png]]
 ##### Wachsende Startups wechseln von Fokus zu Differenzierungsstrategien![[Pasted image 20250127164551.png]]
 ##### Zwei Kriterien bei Produktenwicklung
 - Auswirkungen der Wertschöpfungskette
@@ -91,26 +91,26 @@ Entscheidungs des Vorgesetzten --->Grad der Mitarbeitermitbestimmung
 - Management by Objectives (Führung basierend auf Zielen)
 
 #### Führungsstile (Unternehmen)
-1. Obsessiv
-2. Visionär
-3. Affilitativ
-4. Demokratisch
-5. Zukunftsorientiert
-6. Coaching-Stil
+4. Obsessiv
+5. Visionär
+6. Affilitativ
+7. Demokratisch
+8. Zukunftsorientiert
+9. Coaching-Stil
 
 #### Drei Relevante Gestaltungsparameter ab bestimmter Unternehmensgöße (Folie 58)
 - Spezialisierung
 - Delegation
 - Koodination
-
+![[Pasted image 20250202121732.png]]
 
 ### Zusammenfassung
 - **Relevante Design-Themen** bei Entwicklung von Geschäftsmodell bsp: Lock-in, Sponsor-Basierung, Komplementaritäten, Angebot von Lifestyle-Werten, Effizienz, Digitalisierung, Offeenheit, Flexibilität
 - **Geschäftsmodellinnovationen** durch interne und externe Faktoren, Motivation: Märkte und Branchen aktiv gestalten. Geschäftsmodellinnovationen zB. Veränderung von: Wertschöpfung, Wertangebot oder Wertaufholung
 - Optionen für Scale-ups (Ansoff) : **Marktdurchdringung, Entwicklung des Marktes, Produktentwicklung,  Diversifizierung**. 
-- **Ries, Porter und Kundenwirkung/Produktioninnovation-Matrix** liefern Aufschlüsse über Erfolgsfaktoren
-- **Psychologische Erkenntnisse über Kundengruppen** ( (Tech-)Enthusiasten, Visinär, Pragmatiker, Konservative, Skeptiker) ---> Mehrheiten für Produkt/Service zu gewinnen (Produkt wird von kritischantitative und qualitative Maßnahmen definiert
+- **Ries, Porter und Kundenwirkung/Produktinnovation-Matrix** liefern Aufschlüsse über Erfolgsfaktoren
+- **Psychologische Erkenntnisse über Kundengruppen** ( (Tech-)Enthusiasten, Visionär, Pragmatiker, Konservative, Skeptiker) ---> Mehrheiten für Produkt/Service zu gewinnen (Produkt wird von kritischantitative und qualitative Maßnahmen definiert
 - zB: Eingabeorientiert: Mitarbeiteranzahl, Bilanz, Vermögen, 
-- Outputorientiert: Umsatz, Gewinn, Absatz
-- Innovationsgrad, Qualität, Kundenbeziehungen, Teamfähigkeitener Masse angenommen, Vordringung in Massenmarkt, Verbreitung)
-- Wenn Unterhehmen wächst, müssen Gründer Kontrolle abgeben -> wachsende Komplexität, aber auch durch Investoren.
+- <Outputorientiert: Umsatz, Gewinn, Absatz
+- <Innovationsgrad, Qualität, Kundenbeziehungen, Teamfähigkeitener Masse angenommen, Vordringung in Massenmarkt, Verbreitung)
+- Wenn Unternehmen wächst, müssen Gründer Kontrolle abgeben -> wachsende Komplexität, aber auch durch Investoren.

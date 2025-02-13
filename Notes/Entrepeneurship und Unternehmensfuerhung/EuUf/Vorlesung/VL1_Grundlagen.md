@@ -38,7 +38,7 @@ können auf verschieden Arten generiert werden:
 - Erschließung neuer Absatzmarkt
 - neue Bezugsquelle Rohstoffe
 
-#### Entrepeneruship beschäftigt sich neben Unternehmensgründung mit:
+#### Entrepeneurship beschäftigt sich neben Unternehmensgründung mit:
 - Identifizierung von Chancen
 - Finden von Ideen und Umsetzung
 - Führungskraft/qualität

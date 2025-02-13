@@ -9,7 +9,7 @@
 	2. Aufbau erster Kundenbasis (Kundengewinn, Lernen von Bedürfnissen der Kundenbasis)
 	3. Ausweitung Kundenbasis (jetzt Werbung start)
 ###### Etablierten:
-- Top-Down-Ansatz
+- ==Top-Down-Ansatz==
 	1. Marktsegmentierung
 	2. Zielkundenbestimmung (Auswahl Zielsegment)
 	3. Positionierung (im Markt, Abgrenzug von Wettbewerber)
@@ -37,7 +37,7 @@ Prinzip First-Mover und Folger
 #### ==Product== 
 **Produktenwicklug in Startups** vor allem Ressourcen- statt Gelegenheitsorientiert
 **Herausforderungen**:  Richtige Produktidee finden, Individualisierung vs Standardisierung Zielkonflikt managen, Optimale Ressourcennutzung 
--> 1. Anbieten individueller Produkten(**Verproben am Markt**), 2. Kundengerechte Produkte, 3. Standardisierung
+-> 1. Anbieten individueller Produkten(**Verproben am Markt**), 2. Kundengerechte Produkte, 3. Standardisierung![[Pasted image 20250202185200.png]]
 
 #### ==Price==
 - Sollte untergeordnete Rolle spielen / kein zentrales Problem der Kunden sein (Erlanung Wettbewerbsvorteil, Preiskämpfe -> geringer Marge, Preisfindung für innovatives Produkt schwierig)
@@ -50,7 +50,7 @@ Prinzip First-Mover und Folger
 - Versändins für Kommunikationskanalaufbau
 - Erfolgreiche PR-Arbeit
 
-nicht so wichtig aber gut:
+nicht so wichtig aber gut:![[Pasted image 20250202184635.png]]
 ![[Pasted image 20250123205747.png]]
 ###### ==Guerilla Marketing==
 - Mit **kleinem Budget** **größtmögliche Wirkung** erzielen (Anti-Marketing)
@@ -99,7 +99,7 @@ nicht so wichtig aber gut:
 - In etablierten Unternehmen: 
 -> strukturierte Ideengenerierung und identifizierung -> Auswertungen -> Markeinführung
 - Preis sollte bei Startups kein zentrales Problem sein. Preisbildungsstrategien:
-	- Prämienstrategie,
+	- Premiumstrategie,
 	- Abschöpfungsstrategie(Skimming),
 	- Penetrationsstrategie 
 	-> abhängig von Produkt

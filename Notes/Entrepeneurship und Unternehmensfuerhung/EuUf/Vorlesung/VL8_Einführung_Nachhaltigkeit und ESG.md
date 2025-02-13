@@ -13,7 +13,7 @@ Nachhaltigkeit: Eine Entwicklung, die die Bedürfnisse der heutigen Generation b
 ##### Pyramide der sozialen Verantwortung der Unternehmen ()
 - wirtschaftlich, rechtlich, ethisch und philantropische Erwartungen der Gesellschaft erfüllen
 ![[Pasted image 20250127180540.png]]
-#### Regeneratives Unternehmen 
+#### Regeneratives Unternehmen geht weiter als Nachhaltigkeit
 - geht über konventionelle, grüne, nachhaltige, restaurative Wirtschaft hinaus
 - dient dem gesamten Ökosystem und fördert Öko-Evaluierung und kooperative Beziehung zwischen Mensch und Natur
 - Fokus auf Erzeugung positiver Nettoauswirkung statt wie bei Nachhaltigkeit Schadensminimierung 

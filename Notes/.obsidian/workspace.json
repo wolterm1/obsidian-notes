@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL2_Erkennung_Gelegenheiten.md",
+                "file": "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL10_Nachhaltigkeitsstrategie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VL2_Erkennung_Gelegenheiten"
-            }
-          },
-          {
-            "id": "126d383b5effe0c2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Entrepeneurship und Unternehmensfuerhung/Ent_VL_komplett_gekürzt.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Ent_VL_komplett_gekürzt"
+              "title": "VL10_Nachhaltigkeitsstrategie"
             }
           }
         ],
@@ -53,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -90,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "e3e22c9708ae8f9e",
@@ -188,33 +176,33 @@
   },
   "active": "c3c7e698265cb0bb",
   "lastOpenFiles": [
-    "Entrepeneurship und Unternehmensfuerhung/Ent_VL_komplett_gekürzt.pdf",
+    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL9_Unternehmensstrategie.md",
+    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL6_Wachstum.md",
+    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL4_Kapital.md",
+    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL3_(Businessplan).md",
     "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL2_Erkennung_Gelegenheiten.md",
     "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL1_Grundlagen.md",
+    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL7_Wachstum(2).md",
     "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL5_Markteintritt_und_Marketingmix.md",
-    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL9_Unternehmensstrategie.md",
-    "Entrepeneurship und Unternehmensfuerhung/Session_14_Entrepreneurship &amp; Unternehmensführung_VL_Upload.pdf",
+    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL8_Einführung_Nachhaltigkeit und ESG.md",
     "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL10_Nachhaltigkeitsstrategie.md",
+    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL11_Nachhaltigkeitsmessung-rating.md",
+    "Pasted image 20250202185200.png",
+    "Pasted image 20250202184635.png",
+    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/Gastvortrag Fragen.md",
+    "Pasted image 20250202121732.png",
+    "Pasted image 20250202115139.png",
+    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL13_Nachhaltigkeitskommunikation.md",
+    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL12_Planetare_Grenzen_CircularEconomy.md",
+    "Entrepeneurship und Unternehmensfuerhung/Ent_VL_komplett_gekürzt.pdf",
+    "Entrepeneurship und Unternehmensfuerhung/Session_14_Entrepreneurship &amp; Unternehmensführung_VL_Upload.pdf",
     "Pasted image 20250128180432.png",
     "Pasted image 20250128175309.png",
     "Pasted image 20250128174936.png",
     "Pasted image 20250128174146.png",
-    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL11_Nachhaltigkeitsmessung-rating.md",
     "Pasted image 20250128151354.png",
     "Pasted image 20250128002351.png",
-    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL8_Einführung_Nachhaltigkeit und ESG.md",
-    "Pasted image 20250128002045.png",
-    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL7_Wachstum(2).md",
-    "Pasted image 20250127235337.png",
-    "Pasted image 20250127233517.png",
-    "Pasted image 20250127232405.png",
-    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL12_Planetare_Grenzen_CircularEconomy.md",
-    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL6_Wachstum.md",
-    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL3_(Businessplan).md",
-    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL4_Kapital.md",
     "Entrepeneurship und Unternehmensfuerhung/pic",
-    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/test2.md",
-    "Entrepeneurship und Unternehmensfuerhung/EuUf/Vorlesung/VL13_Nachhaltigkeitskommunikation.md",
     "Vwl makro Präsi.md",
     "TODO.md",
     "Entrepeneurship und Unternehmensfuerhung/Welcome.md",

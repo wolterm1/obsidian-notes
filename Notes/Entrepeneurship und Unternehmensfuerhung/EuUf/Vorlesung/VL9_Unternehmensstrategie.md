@@ -1,6 +1,6 @@
 #### Strategien sind langfristige Maßnahmen zur Zielerreichung
-Strategie ist Aktionsplan 
-#### Vier Bereiche:
+Strategie ist Aktionsplan zur Erreichung von Ziel 
+#### Vier Bereiche zentrale Bereiche strategischen Rahmens:
 - Wettbewerbsvorteil
 - Kooperationen
 - Anwendungsbereich
@@ -19,10 +19,10 @@ Strategie ist Aktionsplan
 - Globale Märkte und Handel
 - Druck der Finanzmärkte
 
-#### Marktbasierte Sichtweise
+#### Marktbasierte Sichtweise (Strategie basiert auf Trends und Branchenumfeld)
 ![[Pasted image 20250127220318.png]]
 
-#### Ressourcenbasierte Sichtweise
+#### Ressourcenbasierte Sichtweise (Strategie basiert auf interne Ressourcen)
 ![[Pasted image 20250127220344.png]]
 
 #### Drei Wettbewerbstrategien für erfolgreiche Unternehmensorientierungen
